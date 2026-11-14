@@ -27,7 +27,7 @@ redirect_from:
 {% for paper in site.data.research_publications %}
 <div class="research-entry">
 <p>{{ paper.citation }}</p>
-{% if paper.url %}<p class="research-links"><a href="{{ paper.url }}">Publisher / Article</a></p>{% elsif paper.doi %}<p class="research-links"><a href="https://doi.org/{{ paper.doi }}">Publisher / DOI</a></p>{% endif %}
+{% if paper.doi %}<p class="research-links"><a href="https://doi.org/{{ paper.doi }}">Publisher / DOI</a></p>{% endif %}
 </div>
 {% endfor %}
 </div>
