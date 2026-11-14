@@ -28,9 +28,9 @@ I am seeking **postdoctoral, research fellow, and research economist positions b
 <div class="home-section-heading"><i class="fas fa-building-columns" aria-hidden="true"></i><h2>Academic experience</h2></div>
 
 <div class="academic-history">
-<div class="history-entry"><span class="history-date">Aug 2025–present</span><div><h3>Postdoctoral Associate</h3><p>University of Illinois Urbana-Champaign</p><p class="history-detail">Advisor: Gal Hochman</p></div></div>
-<div class="history-entry"><span class="history-date">Oct 2024–Apr 2025</span><div><h3>Visiting Scholar</h3><p>EMLV Business School Paris, Le Pôle Léonard de Vinci</p><p class="history-detail">Host advisor: Fawaz Baddar Alhussan</p></div></div>
-<div class="history-entry"><span class="history-date">Oct 2023–Jun 2024</span><div><h3>Visiting Scholar</h3><p>Faculty of Engineering, University of Tokyo</p><p class="history-detail">Host advisor: Yin Long</p></div></div>
+<div class="history-entry"><span class="history-date">Aug 2025–present</span><div><h3>Postdoctoral Associate</h3><p>University of Illinois Urbana-Champaign</p></div></div>
+<div class="history-entry"><span class="history-date">Oct 2024–Apr 2025</span><div><h3>Visiting Scholar</h3><p>EMLV Business School Paris, Le Pôle Léonard de Vinci</p></div></div>
+<div class="history-entry"><span class="history-date">Oct 2023–Jun 2024</span><div><h3>Visiting Scholar</h3><p>Faculty of Engineering, University of Tokyo</p></div></div>
 </div>
 
 <div class="home-section-heading"><i class="fas fa-leaf" aria-hidden="true"></i><h2>Research interests</h2></div>
